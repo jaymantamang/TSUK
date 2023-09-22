@@ -1,0 +1,23 @@
+#h1 {
+
+    color: aqua;
+    padding: 0px;
+    border: 1px;
+    font-family: 'Kenia', cursive;
+}
+
+#logo {
+    border-image: auto;
+    size: 100px;
+    margin: 0%;
+}
+
+.nav {
+    background-color: cadetblue;
+    color: bisque;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: 'Kenia', cursive;
+    font-size: 30px;
+    padding-right: 10px;
+}
